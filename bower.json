@@ -1,0 +1,22 @@
+{
+  "name": "ngAmap",
+  "homepage": "https://github.com/Penergy/Angularjs-A-maps",
+  "authors": [
+    "penergy <penergy@github.com>"
+  ],
+  "description": "A simplest angularjs implementation for AMap",
+  "main": "app.js",
+  "keywords": [
+    "angularjs",
+    "angularjs-directive",
+    "amap"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
