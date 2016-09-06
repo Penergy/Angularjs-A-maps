@@ -1,4 +1,4 @@
-angular.module('ngAMap',[]);
+angular.module('ngAmap',[]);
 
 /**
  * @ngdoc controller
@@ -9,23 +9,24 @@ angular.module('ngAMap',[]);
     'use strict';
     var Attr2MapOptions;
 
-    var __MapController = function(
-        $scope, $element, $attrs, $parse, _Attr2MapOptions_, NgAMap, NgAMapPool
-        ){
-    Attr2MapOptions = _Attr2MapOptions_;
-    var vm = this;
+    // var __MapController = function(
+    //     $scope, $element, $attrs, $parse, _Attr2MapOptions_, NgAmap, NgAmapPool
+    //     ){
+    //         Attr2MapOptions = _Attr2MapOptions_;
+    //         var vm = this;
 
-    vm.mapOptions; /** @memberof __MapController */
-    vm.mapEvents; /** @memberof __MapController */
-    vm.eventListeners: /** @memberof __MapController*/
+    //         vm.mapOptions; /** @memberof __MapController */
+    //         vm.mapEvents; /** @memberof __MapController */
+    //         vm.eventListeners; /** @memberof __MapController*/
 
-    vm.addObject = function(groupName, obj){
+    //         vm.addObject = function(groupName, obj){
 
-    };
+    //         };
 
-    vm.deleteObject = function(groupName, obj){
-    
-    };
+    //         vm.deleteObject = function(groupName, obj){
+            
+    //         };
+    //     });
 
 
-})
+});
